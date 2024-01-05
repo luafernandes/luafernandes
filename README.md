@@ -25,7 +25,7 @@ Luciana = {
     'birthday': "19/11/1996",
     'idioma': [("português", "fluente"), ("inglês", "intermediário"), ("francês", "intermediário")],
     'code': "Python",
-    'skills': ["Google Colab", "VS Code", "Pacote Office",
-               "DashGoo", "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"]
+    'skills': ["Google Colab", "VS Code", "Pacote Office", "DashGoo",
+    "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"]
     'hobbie': ["Jogos Online", "Board Games", "Séries"]
 }
