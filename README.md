@@ -27,5 +27,5 @@ Luciana = {
     'code': "Python",
     'skills': ["Google Colab", "VS Code", "Pacote Office", "DashGoo",
     "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"]
-    'hobbie': ["Jogos Online", "Board Games", "Séries"]
+    'hobby': ["Jogos Online", "Board Games", "Séries"]
 }
