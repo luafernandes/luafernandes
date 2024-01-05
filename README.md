@@ -1,19 +1,31 @@
 <h1 align="center">
-  <img src="assets/Verde + Marrom.png" alt="Marton Lederer" />
+  <img src="assets/Design sem nome.png" alt="Luciana Fernandes" />
 </h1>
-### Hi there 👋
 
-<!--
-**luafernandes/luafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, bem-vindos ao meu perfil 👋
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:woman: Prazer, meu nome é Luciana Fernandes
+
+:notebook_with_decorative_cover: *Student of Data Science at ADA Tech*
+
+:notebook_with_decorative_cover: *Student of Advertising at ADA Tech*
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/luafernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+&nbsp;
+
+##### Um pouco sobre mim
+```python
+Luciana = {
+    'pronome': ["she", "her"],
+    'birthday': "19/11/1996",
+    'idioma': [("português", "fluente"), ("inglês", "intermediário"), ("francês", "intermediário")],
+    'code': "Python",
+    'skills': ["Google Colab", "VS Code", "Pacote Office",
+               "DashGoo", "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"]
+    'hobbie': ["Jogos Online", "Board Games", "Séries"]
+}
