@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="assets/Verde + Marrom.png" alt="Marton Lederer" />
+</h1>
 ### Hi there 👋
 
 <!--
