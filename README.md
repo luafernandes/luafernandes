@@ -10,7 +10,7 @@
 
 :notebook_with_decorative_cover: *Student of Data Science at ADA Tech*
 
-:notebook_with_decorative_cover: *Student of Advertising at ADA Tech*
+:notebook_with_decorative_cover: *Student of Advertising at UNINTER*
 
 &nbsp;
 
