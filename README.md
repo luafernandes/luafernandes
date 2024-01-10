@@ -26,6 +26,6 @@ Luciana = {
     'idioma': [("português", "fluente"), ("inglês", "intermediário"), ("francês", "intermediário")],
     'code': "Python",
     'skills': ["Google Colab", "VS Code", "Pacote Office", "DashGoo",
-    "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"]
+    "Gerenciador de Anúncios", "Facebook Business Suite", "Adobe Campaign", "Canva", "Gestão de Projetos"],
     'hobby': ["Jogos Online", "Board Games", "Séries"]
 }
