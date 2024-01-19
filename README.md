@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="assets/Design sem nome.png" alt="Luciana Fernandes" />
-</h1>
-
 ### Olá, bem-vindos ao meu perfil 👋
 
 &nbsp;
